@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369037431044",
+    "firebase_url": "https://project-app-534d1.firebaseio.com",
+    "project_id": "project-app-534d1",
+    "storage_bucket": "project-app-534d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369037431044:android:22426cc4c165040f3d8051",
+        "android_client_info": {
+          "package_name": "com.example.cityhunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369037431044-e0j562hiukvikb0usr8ki0g25qhnchp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cityhunter",
+            "certificate_hash": "a3dbb016ce4c153ee8cd63b50da7b864c4880bc1"
+          }
+        },
+        {
+          "client_id": "369037431044-rb8gcv9av85b71d8i64u8h9brs6t5iqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANbZ_yutGkKyQccb1RI6_jSYUfZYHC9mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369037431044-rb8gcv9av85b71d8i64u8h9brs6t5iqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
