@@ -23,7 +23,7 @@
         android:layout_gravity="center"
         android:background="#CEF0FF"
 
-        android:text="LOGOUT"
+        android:text="LogOut"
         android:textColor="#101010"
 
 
